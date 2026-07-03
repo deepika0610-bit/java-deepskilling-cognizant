@@ -12,8 +12,8 @@ During Week 3 of the Cognizant Java Full Stack Engineering (FSE) Deep Skilling P
 
 ## Contents
 
-- 📄 Spring REST.pdf
-- 📄 Spring Security with JWT.pdf
+- 📄 Spring REST using Spring Boot 3.pdf
+  
 
 ## Objective
 
